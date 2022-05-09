@@ -32,7 +32,7 @@ node_filesystem_avail_bytes {instance="nodeexporter:9100", job="nodeexporter", m
 
 # Задание 3
 
-  ![Скриншот dashboard](https://github.com/chuckberry321/netology-10-monitoring-03-grafana/blob/main/pictures/grafana_dashboard_2.png)
+  [Скриншот dashboard](https://github.com/chuckberry321/netology-10-monitoring-03-grafana/blob/main/pictures/grafana_dashboard_2.png)
 
 # Задание 4
 
